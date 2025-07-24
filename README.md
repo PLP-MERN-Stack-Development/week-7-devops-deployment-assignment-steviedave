@@ -8,9 +8,9 @@ This project is a simple yet elegant task manager (To-Do List) built using the *
 
 Here is what the Task Manager looks like:
 
-<img src="./Screenshot 2025-07-20 173119.png" alt="Task Manager UI Screenshot" style="max-width: 100%; border-radius: 12px; box-shadow: 0px 2px 10px rgba(0,0,0,0.1);" />
+<img src="./screenshots/Screenshot 2025-07-20 173119.png" alt="Task Manager UI Screenshot" style="max-width: 100%; border-radius: 12px; box-shadow: 0px 2px 10px rgba(0,0,0,0.1);" />
 
-<img src="./Screenshot 2025-07-20 191423.png" alt="Task Manager UI Screenshot" style="max-width: 100%; border-radius: 12px; box-shadow: 0px 2px 10px rgba(0,0,0,0.1);" />
+<img src="./screenshots/Screenshot 2025-07-20 191423.png" alt="Task Manager UI Screenshot" style="max-width: 100%; border-radius: 12px; box-shadow: 0px 2px 10px rgba(0,0,0,0.1);" />
 
 Here's a screenshot of MongoDB atlas updating with the tasks once the user interacts with the UI
 
