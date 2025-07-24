@@ -8,13 +8,13 @@ This project is a simple yet elegant task manager (To-Do List) built using the *
 
 Here is what the Task Manager looks like:
 
-<img src="./screenshots/Screenshot 2025-07-20 173119.png" alt="Task Manager UI Screenshot" style="max-width: 100%; border-radius: 12px; box-shadow: 0px 2px 10px rgba(0,0,0,0.1);" />
+<img src="./screenshots/task-manager-ui(1).png" alt="Task Manager UI Screenshot" style="max-width: 100%; border-radius: 12px; box-shadow: 0px 2px 10px rgba(0,0,0,0.1);" />
 
-<img src="./screenshots/Screenshot 2025-07-20 191423.png" alt="Task Manager UI Screenshot" style="max-width: 100%; border-radius: 12px; box-shadow: 0px 2px 10px rgba(0,0,0,0.1);" />
+<img src="./screenshots/task-manager-ui.png" alt="Task Manager UI Screenshot" style="max-width: 100%; border-radius: 12px; box-shadow: 0px 2px 10px rgba(0,0,0,0.1);" />
 
 Here's a screenshot of MongoDB atlas updating with the tasks once the user interacts with the UI
 
-<img src="./screenshots/Screenshot 2025-07-20 191358.png" alt="Task Manager UI Screenshot" style="max-width: 100%; border-radius: 12px; box-shadow: 0px 2px 10px rgba(0,0,0,0.1);" />
+<img src="./screenshots/mongodb-atlas.png" alt="Task Manager UI Screenshot" style="max-width: 100%; border-radius: 12px; box-shadow: 0px 2px 10px rgba(0,0,0,0.1);" />
 
 ---
 
@@ -136,6 +136,26 @@ This will launch the frontend at `http://localhost:5173`
 | DELETE | `/api/todos/:id` | Delete a specific todo           |
 
 ---
+
+---
+
+## 🚀 Deployment
+
+This project is successfully deployed on **Render**, a powerful cloud platform for modern web apps.
+
+You can view the live application here:  
+👉 **[https://mern-to-do-app-lvf2.onrender.com](https://mern-to-do-app-lvf2.onrender.com)**
+
+The app is continuously deployed from the main branch on GitHub. Whenever changes are pushed, Render automatically rebuilds and redeploys the latest version of the project. Both the **frontend** and **backend** are integrated into a single service with proper build and start commands, and the backend connects seamlessly to a **MongoDB Atlas** cluster in the cloud.
+
+---
+
+### 🖼️ Deployment Process Screenshot
+
+> Below is a screenshot showing the successful deployment process as seen on the Render dashboard:
+
+![Deployment Screenshot](screenshots/app-deployment.png)
+
 
 ## 🧑‍💻 Author
 
