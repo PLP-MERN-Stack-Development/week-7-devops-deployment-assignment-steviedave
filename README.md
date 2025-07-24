@@ -14,7 +14,7 @@ Here is what the Task Manager looks like:
 
 Here's a screenshot of MongoDB atlas updating with the tasks once the user interacts with the UI
 
-<img src="./Screenshot 2025-07-20 191358.png" alt="Task Manager UI Screenshot" style="max-width: 100%; border-radius: 12px; box-shadow: 0px 2px 10px rgba(0,0,0,0.1);" />
+<img src="./screenshots/Screenshot 2025-07-20 191358.png" alt="Task Manager UI Screenshot" style="max-width: 100%; border-radius: 12px; box-shadow: 0px 2px 10px rgba(0,0,0,0.1);" />
 
 ---
 
